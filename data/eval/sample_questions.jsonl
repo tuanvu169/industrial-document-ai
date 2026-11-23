@@ -1,0 +1,3 @@
+{"question": "Áp suất làm việc tối đa của bơm P-101 là bao nhiêu?", "type": "factual", "relevant": [{"filename": "pump_manual.pdf", "page": 12}]}
+{"question": "Các bước xử lý khi van an toàn không mở?", "type": "troubleshooting", "relevant": [{"filename": "pump_manual.pdf", "page": 31}, {"filename": "safety_guide.pdf", "page": 4}]}
+{"question": "Công ty có bao nhiêu nhân viên?", "type": "unanswerable", "relevant": []}
